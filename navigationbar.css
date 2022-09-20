@@ -1,0 +1,47 @@
+.section{
+    positon:fixed;
+    height:900px;
+    width:100%;
+    border-width: 1px;
+    border color: black;
+    margin left:5mm;
+    margin right:5mm;
+}
+.header{
+    color: aqua;
+    background-color: black;
+}
+.container1{
+    float: left;
+    display:flex;
+    height:550px;
+    width:25%;
+    
+}
+.float_left{
+    color:black ;
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+}
+.container2{
+    float: right;
+    display:flex;
+    height:550px;
+    width:15%;
+    
+}
+.float_right{
+    color:black ;
+    background-color: yellow;
+    padding:40px;'
+    text-align: center;
+}
+.footer{
+    color:white;
+    background-color: black;
+    position:absolute;
+    bottom:0px;
+    width:100%;
+    text-align: center;
+}
